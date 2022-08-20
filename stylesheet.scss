@@ -238,12 +238,12 @@ footer {
 	bottom: 0.2rem;
 	left: 50%;
 	transform: translate(-50%, -0.2rem);
-  font-size: 0.6875rem;
+	font-size: 0.6875rem;
 	color: $neutral-clr-500;
-  text-align: center;
-  
-  a {
-    color: $primary-clr-900;
-    font-weight: $fw-bold;
-  }
+	text-align: center;
+
+	a {
+		color: $primary-clr-900;
+		font-weight: $fw-bold;
+	}
 }
